@@ -32,7 +32,6 @@
     "dependencies": {
         "bootstrap-sass": "^3.4.1",
         "epic-spinners": "^1.1.0",
-        "hchs-vue-charts": "^1.2.8",
         "laravel-mix-merge-manifest": "^0.1.2",
         "moment": "^2.24.0",
         "moment-range": "^4.0.2",
