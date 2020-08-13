@@ -2,6 +2,8 @@
 /public/mix-manifest.json
 /public/assets/css/*
 /public/assets/js/*
+/public/backend/css/*
+/public/backend/js/*
 /public/fonts/*
 /public/hot
 /public/storage
